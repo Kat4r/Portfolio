@@ -10,7 +10,7 @@ competências.
 
 Projetos inteiros com explicação e funcionamento, projetos em criação, contribuições a demais projetos entre outras coisas
 
-## Bibliotecas/Framworks usadas
+## Bibliotecas/Frameworks usadas
 \\
 ## Programas usados
 \\
